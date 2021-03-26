@@ -1,2 +1,2 @@
-created_by:"Afham m,k"
+created_by:"Afham m.k"
 description:"This is a button component Description"
