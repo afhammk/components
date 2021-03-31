@@ -1,2 +1,0 @@
-createdby:'sanooj'
-description:'This is a footer component'
