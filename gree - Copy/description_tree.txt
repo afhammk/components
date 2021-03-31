@@ -1,2 +1,0 @@
-createdby:'hisham'
-description:'This is a green component'
