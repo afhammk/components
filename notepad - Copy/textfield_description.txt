@@ -1,2 +1,0 @@
-createdby:'shameel'
-description:'This is a notpad component'
