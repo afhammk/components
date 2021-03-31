@@ -1,2 +1,0 @@
-createdby:'sanooj'
-description:'This is a tree blue2 component'
